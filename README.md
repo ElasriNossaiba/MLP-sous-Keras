@@ -9,3 +9,6 @@ Keras :
  A: MLP pour une  classification  binaire 
 
  B: MLP  pour une regression pour la prédiction des prix des maison 
+ 
+ 
+ Télécharger datasource: https://www.machinecurve.com/index.php/2019/07/30/creating-an-mlp-for-regression-with-keras/ 
